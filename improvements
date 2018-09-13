@@ -1,4 +1,0 @@
-Improvements:
-
-adjust k / learning rate to goal difference
-better draw prediction (better regression + better application to prediction).
