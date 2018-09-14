@@ -12,4 +12,4 @@ Prediction shows a comparison of the models prediction to more naive prediction 
 
 intra team analysis shows relative performance of players inside a team in a .csv file.
 
-The database used for this project can not be uploaded to GitHub do to size constraints.
+The database used for this project can not be uploaded to GitHub do to size constraints but can be downloaded via https://drive.google.com/file/d/19m4V-KsZ2c2hRRQtQ8ipcCnk9X_9gWn8/view?usp=sharing
