@@ -1,6 +1,7 @@
 # Elo-Thesis
 
 Elo-based rating system including individual perfomance as part of team rating.
+The repository was created using the Jupyter Notebook.
 
 Elo thesis loops through the database and does calculate the ratings and writes them into the database using Python.
 
